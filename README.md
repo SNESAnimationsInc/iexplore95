@@ -6,4 +6,4 @@ It's free and open-source, so if you want to help me, you can use the code and a
 
 ### Latest Release:
 
-[Version 0.65 beta](https://github.com/SNESAnimationsInc/iexplore95/releases/tag/v0.65-beta)
+[Version 0.7 beta](https://github.com/SNESAnimationsInc/iexplore95/releases/tag/v0.7-beta)
